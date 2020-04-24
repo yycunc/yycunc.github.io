@@ -31,7 +31,7 @@ Feng, X., Xu, S., Li, J., **Yang, Y.**, Chen, Q., Lyu, H., Zhong, C., He, Z., Sh
 
 Johnson, N., Huang, L., Li, R., Li, Y., **Yang, Y.**, Kim H., et al. (2020) Age-related DNA hydroxymethylation is enriched for gene expression and immune system processes in human peripheral blood. ***Epigenetics***, 15: 294-306. PMID: 31506003. ([link](https://www.tandfonline.com/doi/abs/10.1080/15592294.2019.1666651))
 
-Huh, R.&dagger, **Yang, Y.<sup>&dagger;</sup>**, Jiang, Y., Shen, Y., Li, Y. (2020) SAME-clustering: Single-cell Aggregated Clustering via Mixture Model Ensemble. ***Nucleic Acids Research***, 48: 86-95. PMID: 31777938. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
+Huh, R.<sup>&dagger;</sup>, **Yang, Y.<sup>&dagger;</sup>**, Jiang, Y., Shen, Y., Li, Y. (2020) SAME-clustering: Single-cell Aggregated Clustering via Mixture Model Ensemble. ***Nucleic Acids Research***, 48: 86-95. PMID: 31777938. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
 
 
 ### 2019
