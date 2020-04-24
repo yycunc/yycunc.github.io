@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Yuchen Yang
-description: I am a Research Assistant Professor in Department of Pathology and Laboratory Medicine at the University of North Carolina, Chapel Hill.
-
 ---
 
 <div class="container">
@@ -13,6 +11,9 @@ description: I am a Research Assistant Professor in Department of Pathology and 
     </div>
 </div>
 
+### Description: 
+
+I am a Research Assistant Professor in Department of Pathology and Laboratory Medicine at the University of North Carolina, Chapel Hill.
 
 ###  Background
 
