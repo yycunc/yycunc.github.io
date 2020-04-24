@@ -13,7 +13,7 @@ title: Yuchen Yang
     </div>
 </div>
 
-I obtained my Ph.D. in Evolutionary Genomics from the Sun Yat-sen University, China, in 2016 working with [Dr. Suhua Shi](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Chung-I Wu](https://www.ee.nthu.edu.tw/bschen/files/Chung-I%20Wu%27s%20Home%20Page.htm). I started my Postdoc in Department of Genetics at UNC Chapel Hill in 2017 working with [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)(advisor).
+I obtained my Ph.D. in Evolutionary Genomics from the Sun Yat-sen University, China, in 2016 working with [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html) (advisor) and [Dr. Chung-I Wu](https://www.ee.nthu.edu.tw/bschen/files/Chung-I%20Wu%27s%20Home%20Page.htm). I started my Postdoc in Department of Genetics at UNC Chapel Hill in 2017 working with [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/) (advisor).
 
 ### Research
 
