@@ -23,7 +23,7 @@ My primary research interests focus on the development of statistical methods fo
 
 <div class="container">
     <div class="row-fluid">
-            <b>Email</b>: yyuchen *at* email *dot* unc *dot* edu<br/>
+            <b>Email</b>: yyuchen*@*email*\.*unc*\.* edu<br/>
             <b>Phone</b>: (984)215-9019<br/>
             <b>Office</b>: 4115D Medical Biomolecular Research Bldg., 135 Dauer Drive, Chapel Hill, NC 27599-7264<br/>
             <b>Official website</b>: 
