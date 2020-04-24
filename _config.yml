@@ -8,16 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jiang Lab @ UNC
+title : Yuchen Yang @ UNC-CH
 author :
-  name : Yuchao Jiang
-  email : yuchaoj@email.unc.edu
-  github : yuchaojiang
-  twitter : yuchaojiang
+  name : Yuchen Yang
+  email : yyuchen@email.unc.edu
+  github : https://github.com/yycunc
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-production_url : https://yuchaojiang.github.io/
+production_url : https://yycunc.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
