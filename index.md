@@ -7,7 +7,7 @@ title: Yuchen Yang
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/Yuchao.jpg">
-            <img src="../assets/pics/Yuchao.jpg" height="200" width="200" title="Yuchao Jiang" alt="Yuchao Jiang"/>
+            <img src="../assets/pics/Yuchen.jpeg" height="200" width="200" title="Yuchen Yang" alt="Yuchen Yang"/>
         </a>
         </div>
     </div>
