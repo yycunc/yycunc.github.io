@@ -36,10 +36,7 @@ My primary research interests focus on the development of statistical methods fo
     <div class="row-fluid">
             <b>Email</b>: yyuchen@email.unc.edu<br/>
             <b>Phone</b>: (984)215-9019<br/>
-            <b>Office</b>: 4115D Medical Biomolecular Research Bldg., 135 Dauer Drive, Chapel Hill, NC 27599-7264<br/>
-            <b>Official website</b>: 
-            #<a href="http://sph.unc.edu/adv_profile/yuchao-jiang-phd/">Biostatistics</a>,
-            #<a href="https://www.med.unc.edu/genetics/people/joint-secondary-faculty/yuchao-jiang-phd">Genetics</a>,
+            <b>Office</b>: Medical Biomolecular Research Bldg., 135 Dauer Drive, Chapel Hill, NC 27599-7264<br/>
             <b>GitHub</b>: <a href="https://github.com/yycunc">https://github.com/yycunc</a><br/>
     </div>
 </div>
