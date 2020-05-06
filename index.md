@@ -49,12 +49,16 @@ My primary research interests focus on the development of statistical methods fo
     School of Life Science<br/>
     Sun Yat-sen University, Guangzhou, China<br/>
 
+---
+
 ### HONORS AND AWARDS
 2015 - 2017 Academic Scholarship of Chang Hungta Science Foundation, Sun Yat-sen University<br/>
 2015    National Scholarship for Graduate Students, China<br/>
 2015    Wang Bosun Ecology Scholarship, Sun Yat-sen University<br/>
 2015    Second Prize for Outstanding Graduate Award, State Key Laboratory of Biocontrol, Sun Yat-sen University<br/>
 2008 - 2010 First Prize Scholarship for Undergraduate Students, Sun Yat-Sen University<br/>
+
+---
 
 ### CONTACT INFORMATION
 
