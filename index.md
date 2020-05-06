@@ -21,19 +21,19 @@ My primary research interests focus on the development of statistical methods fo
 
 <div class="container">
     <div class="row-fluid">
-            Yuchen Yang<br/>
-            Research Assistant Professor, <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
+            2020 - :  <b>Research Assistant Professor<b><br/>
+            <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
             Member, <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
             University of North Carolina, Chapel Hill <br/><br/>
     </div>
 </div>
 
-2016 - 2020:    Postdoctoral Fellow<br/>
+2016 - 2020:  <b>Postdoctoral Fellow<b><br/>
     Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
-    Department of Genetics<br/>
-    University of North Carolina at Chapel Hill<br/>
+    <a href="https://www.med.unc.edu/genetics/">Department of Genetics<br/>
+    University of North Carolina, Chapel Hill<br/>
 
-2011 - 2016:    <b>Graduate/Ph.D. Student</b><br/>
+2011 - 2016:  <b>Graduate/Ph.D. Student</b><br/>
     Major: Biochemistry and Molecular Biology<br/>
     Advisor: [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html)<br/>
     School of Life Science<br/>
@@ -41,7 +41,7 @@ My primary research interests focus on the development of statistical methods fo
     Ph.D. Thesis: Phylogenetic and phylogeographic analysis in Sonneratia, Sun Yat-sen University<br/>
 
 
-2007 - 2011:	<b>Undergraduate/B.S. Student</b><br/>
+2007 - 2011:  <b>Undergraduate/B.S. Student</b><br/>
     Major: Biotechnology<br/>
     School of Life Science<br/>
     Sun Yat-sen University, Guangzhou, China<br/>
