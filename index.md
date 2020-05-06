@@ -30,7 +30,7 @@ My primary research interests focus on the development of statistical methods fo
 
 2016 - 2020:  <b>Postdoctoral Fellow</b><br/>
     Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
-    <a href="https://www.med.unc.edu/genetics/">Department of Genetics<br/>
+    <a href="https://www.med.unc.edu/genetics/">Department of Genetics</a><br/>
     University of North Carolina, Chapel Hill<br/>
 
 2011 - 2016:  <b>Graduate/Ph.D. Student</b><br/>
