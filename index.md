@@ -9,12 +9,12 @@ title: Yuchen Yang
         <a href="assets/Yuchen.jpg">
             <img align="left" src="assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
         </a>
-            <b>Yuchen Yang, PhD</b><br/>
-            Research Assistant Professor<br/>
-            Email: yyuchen@email.unc.edu<br/>
+            <b>Yuchen Yang, PhD</b><br/><br/>
+            Research Assistant Professor<br/><br/>
+            Email: yyuchen@email.unc.edu<br/><br/>
         </div>
     </div>
-</div><br/>
+</div><br/><br/><br/><br/><br/>
 
 
 ### RESEARCH INTERESTS
