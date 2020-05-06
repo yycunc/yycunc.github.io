@@ -9,8 +9,28 @@ I developed SAFE-clustering and SAME-clustering, a flexible, accurate and robust
 
 Our analyses revealed that both SAFE and SAME provided the most accurate or closest match to the most accurate clustering solutions across benchmarking datasets with varying technologies, number of single cells and level of heterogeneity across single cells. SAME also allows additional flexibility, enjoys statistical rigor by employing a mixture model framework and demonstrates superior performance over 15 benchmark datasets.
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="assets/SAFE_Framework.jpg">
+            <img src="assets/SAFE_Framework.jpg" height="135" width="424" title="SAFE_Framework" alt="SAFE_Framework"/>
+        </a>
+        </div>
+    </div>
+</div>
+
 ---
 
 ### Batch Effect Correction for scRNA-seq data via Supervised Mutual Nearest Neighbor (SMNN) Detection
 
 Batch effect correction has been recognized to be indispensable when integrating scRNA-seq data from multiple batches. A recent study proposed an effective batch effect correction method based on mutual nearest neighbors (MNN) across batches. However, the original MNN method is unsupervised in that it ignores cluster label information of single cells, which has the potential to further improve effectiveness of batch effect correction, particularly under realistic scenarios where true biological differences are not orthogonal to batch effect. Therefore, I propose SMNN for batch effect correction of scRNA-seq data via supervised mutual nearest neighbor detection. Our extensive evaluations in simulated and real datasets show that SMNN provides improved merging within the corresponding cell types across batches, leading to reduced differentiation across batches over MNN, Seurat v3, and LIGER. Furthermore, SMNN retains more cell type-specific features, partially manifested by differentially expressed genes identified between cell types after SMNN correction being biologically more relevant.
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="assets/SMNN_Framework.jpg">
+            <img src="assets/SMNN_Framework.jpg" height="446" width="743" title="SMNN_Framework" alt="SMNN_Framework"/>
+        </a>
+        </div>
+    </div>
+</div>
