@@ -13,7 +13,7 @@ Our analyses revealed that both SAFE and SAME provided the most accurate or clos
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/SAFE_Framework.jpg">
-            <img src="../assets/SAFE_Framework.jpg" height="135" width="424" title="SAFE_Framework" alt="SAFE_Framework"/>
+            <img src="../assets/SAFE_Framework.jpg" height="270" width="848" title="SAFE_Framework" alt="SAFE_Framework"/>
         </a>
         </div>
     </div>
