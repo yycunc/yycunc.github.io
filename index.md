@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuchen Yang, Ph.D.<br/> Research Assistant Professor
+title: Yuchen Yang
 ---
 
 <div class="container">
