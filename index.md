@@ -64,8 +64,7 @@ The focus of my research is on the development of statistical methods for single
 <div class="container">
     <div class="row-fluid">
             <b>Email</b>: yyuchen@email.unc.edu<br/>
-            <b>Phone</b>: (984)215-9019<br/>
-            <b>Office</b>: Medical Biomolecular Research Bldg., 135 Dauer Drive, Chapel Hill, NC 27599-7264<br/>
+            <b>Office</b>: Medical Biomolecular Research Bldg., 111 Mason Farm Road, Chapel Hill, NC 27599<br/>
             <b>GitHub</b>: <a href="https://github.com/yycunc">https://github.com/yycunc</a><br/>
     </div>
 </div>
