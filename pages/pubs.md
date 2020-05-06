@@ -17,13 +17,13 @@ title: Yuchen Yang's publications
 
 Jiang, Y., Li, W., Lindsey-Boltz, L., **Yang, Y.**, Li, Y., Sancar, A. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1))
 
-**Yang, Y.<sup>&dagger;</sup>**, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/672261v2.abstract))
-
 Crowley, C., **Yang, Y.**, Qiu, Y., Hu, B., Lipiński, J., Plewczynski, D., Won, H., Ren, B., Hu, M., Li, Y. FIREcaller: detecting frequently interacting regions from Hi-C data. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/619288v1.abstract))
 
 Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, **Yang, Y.<sup>&dagger;</sup>**, Crowley, C., Liu, X., Juric, I., *et al.* Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/406330v1.full))
 
 ### 2020
+
+**Yang, Y.<sup>&dagger;</sup>**, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. ***Briefings in Bioinformatics***, Accepted. ([link](https://www.biorxiv.org/content/10.1101/672261v2.abstract))
 
 **Yang, Y.**, Li, Y., Sancar, A., Oztas, O. The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. ***Journal of Biological Chemistry***. jbc.RA120.013513. doi:10.1074/jbc.RA120.013513.([link](https://www.jbc.org/content/early/2020/04/17/jbc.RA120.013513.short))
 
