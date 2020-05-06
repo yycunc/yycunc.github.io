@@ -12,8 +12,8 @@ Our analyses revealed that both SAFE and SAME provided the most accurate or clos
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="assets/SAFE_Framework.jpg">
-            <img src="assets/SAFE_Framework.jpg" height="73" width="212" title="SAFE_Framework" alt="SAFE_Framework"/>
+        <a href="../assets/SAFE_Framework.jpg">
+            <img src="../assets/SAFE_Framework.jpg" height="135" width="424" title="SAFE_Framework" alt="SAFE_Framework"/>
         </a>
         </div>
     </div>
@@ -28,8 +28,8 @@ Batch effect correction has been recognized to be indispensable when integrating
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="assets/SMNN_Framework.jpg">
-            <img src="assets/SMNN_Framework.jpg" height="446" width="743" title="SMNN_Framework" alt="SMNN_Framework"/>
+        <a href="../assets/SMNN_Framework.jpg">
+            <img src="../assets/SMNN_Framework.jpg" height="446" width="743" title="SMNN_Framework" alt="SMNN_Framework"/>
         </a>
         </div>
     </div>
