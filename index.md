@@ -41,7 +41,6 @@ My primary research interests focus on the development of statistical methods fo
     Advisor: [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html)<br/>
     School of Life Science<br/>
     Sun Yat-sen University, Guangzhou, China<br/>
-    Ph.D. Thesis: Phylogenetic and phylogeographic analysis in Sonneratia, Sun Yat-sen University<br/>
 
 
 2007 - 2011:  <b>Undergraduate/B.S. Student</b><br/>
