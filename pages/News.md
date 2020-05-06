@@ -5,8 +5,6 @@ title: News
 
 ## 2020
 
----
-
 <b>May 1 , 2020</b><br/> 
 
 My research article "SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection" is 
