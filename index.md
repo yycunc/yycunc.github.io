@@ -14,7 +14,7 @@ title: Yuchen Yang
             Email: yyuchen@email.unc.edu<br/><br/>
         </div>
     </div>
-</div><br/><br/><br/><br/><br/>
+</div><br/><br/><br/><br/>
 
 
 ### RESEARCH INTERESTS
