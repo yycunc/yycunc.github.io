@@ -11,7 +11,7 @@ title: Yuchen Yang
         </a>
         </div>
     </div>
-</div><br/><br/><br/><br/>
+</div>
 
 
 ### RESEARCH INTERESTS
