@@ -21,14 +21,14 @@ My primary research interests focus on the development of statistical methods fo
 
 <div class="container">
     <div class="row-fluid">
-            2020 - :  <b>Research Assistant Professor<b><br/>
+            2020 - :  <b>Research Assistant Professor</b><br/>
             <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
-            Member, <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
+            <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
             University of North Carolina, Chapel Hill <br/><br/>
     </div>
 </div>
 
-2016 - 2020:  <b>Postdoctoral Fellow<b><br/>
+2016 - 2020:  <b>Postdoctoral Fellow</b><br/>
     Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
     <a href="https://www.med.unc.edu/genetics/">Department of Genetics<br/>
     University of North Carolina, Chapel Hill<br/>
@@ -45,8 +45,6 @@ My primary research interests focus on the development of statistical methods fo
     Major: Biotechnology<br/>
     School of Life Science<br/>
     Sun Yat-sen University, Guangzhou, China<br/>
-
-I obtained my Ph.D. in Evolutionary Genomics from the Sun Yat-sen University, China, in 2016 working with [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html) (advisor) and [Dr. Chung-I Wu](https://www.ee.nthu.edu.tw/bschen/files/Chung-I%20Wu%27s%20Home%20Page.htm). I started my Postdoc in Department of Genetics at UNC Chapel Hill in 2017 working with [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/) (advisor).
 
 ### HONORS AND AWARDS
 2015 - 2017 Academic Scholarship of Chang Hungta Science Foundation, Sun Yat-sen University<br/>
