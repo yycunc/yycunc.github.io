@@ -25,7 +25,7 @@ Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, **Yang, Y.<
 
 **Yang, Y.<sup>&dagger;</sup>**, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. ***Briefings in Bioinformatics***, Accepted. ([link](https://www.biorxiv.org/content/10.1101/672261v2.abstract))
 
-**Yang, Y.**, Li, Y., Sancar, A., Oztas, O. The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. ***Journal of Biological Chemistry***. jbc.RA120.013513. doi:10.1074/jbc.RA120.013513.([link](https://www.jbc.org/content/early/2020/04/17/jbc.RA120.013513.short))
+**Yang, Y.**, Li, Y., Sancar, A., Oztas, O. (2020) The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. ***Journal of Biological Chemistry***, 295:7608-7619. ([link](https://www-jbc-org.libproxy.lib.unc.edu/content/295/22/7608))
 
 Feng, X., Xu, S., Li, J., **Yang, Y.**, Chen, Q., Lyu, H., Zhong, C., He, Z., Shi, S. (2020) Molecular adaptation to salinity fluctuation in tropical intertidal environments of a mangrove tree *Sonneratia alba*. ***BMC Plant Biology***, 20:178. ([link](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02395-3))
 
