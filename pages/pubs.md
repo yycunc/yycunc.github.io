@@ -78,9 +78,9 @@ title: Yuchen Yang's publications
 
 ### 2015
 
-1. **Yang Y.**, Yang, S., Li, J., Deng, Y., Zhang, Z., Xu, S., Guo, W., Zhong, C., Zhou, R., Shi, S. (2015) Transcriptome analysis of the Holly mangrove Acanthus ilicifolius and its terrestrial relative, Acanthus leucostachyus, provides insights into adaptation to intertidal zones. ***BMC Genomics***, 16: 605. PMID: 26272068. ([link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1813-9))
+3. **Yang Y.**, Yang, S., Li, J., Deng, Y., Zhang, Z., Xu, S., Guo, W., Zhong, C., Zhou, R., Shi, S. (2015) Transcriptome analysis of the Holly mangrove Acanthus ilicifolius and its terrestrial relative, Acanthus leucostachyus, provides insights into adaptation to intertidal zones. ***BMC Genomics***, 16: 605. PMID: 26272068. ([link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1813-9))
 
 2. **Yang, Y.**, Yang, S., Li, J., Li, X., Zhong, C., Huang, Y., Zhou, R., Shi, S. (2015) De novo assembly of the transcriptomes of two yellow mangroves, *Ceriops tagal* and *C. zippeliana*, and one of their terrestrial relatives, *Pellacalyx yunnanensis*. ***Marine Genomics***, 23: 33-36. PMID: 25899405. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1874778715000586))
 
-[1] **Yang, Y.**, Yang, S., Fang, L., Li, J., Zhong, C., Zhou, R., Shi, S. (2015) Phylogenetic position of *Sonneratia  griffithii* based on sequences of the nuclear ribosomal internal transcribed spacer and 13 nuclear genes. ***Journal of Systematics and Evolution***, 53(1): 47-52. ([link](https://onlinelibrary.wiley.com/doi/abs/10.1111/jse.12102))
+<p>1. **Yang, Y.**, Yang, S., Fang, L., Li, J., Zhong, C., Zhou, R., Shi, S. (2015) Phylogenetic position of *Sonneratia  griffithii* based on sequences of the nuclear ribosomal internal transcribed spacer and 13 nuclear genes. ***Journal of Systematics and Evolution***, 53(1): 47-52. ([link](https://onlinelibrary.wiley.com/doi/abs/10.1111/jse.12102))</p>
 
