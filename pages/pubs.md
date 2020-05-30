@@ -82,5 +82,5 @@ title: Yuchen Yang's publications
 
 <ol start="2"> <li><b>Yang, Y.</b>, Yang, S., Li, J., Li, X., Zhong, C., Huang, Y., Zhou, R., Shi, S. (2015) De novo assembly of the transcriptomes of two yellow mangroves, <i>Ceriops tagal</i>  and <i>C. zippeliana</i> , and one of their terrestrial relatives, <i>Pellacalyx yunnanensis</i>. <i><b>Marine Genomics</i></b>, 23: 33-36. PMID: 25899405. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1874778715000586))</li></ol>
 
-<ol start="1"> <li><b>Yang, Y.</b>, Yang, S., Fang, L., Li, J., Zhong, C., Zhou, R., Shi, S. (2015) Phylogenetic position of <i>Sonneratia  griffithii</i>  based on sequences of the nuclear ribosomal internal transcribed spacer and 13 nuclear genes. <i><b>Journal of Systematics and Evolution</b></i>, 53(1): 47-52. ([link](https://onlinelibrary.wiley.com/doi/abs/10.1111/jse.12102))</li></ol>
+<ol start="1"> <li><b>Yang, Y.</b>, Yang, S., Fang, L., Li, J., Zhong, C., Zhou, R., Shi, S. (2015) Phylogenetic position of <i>Sonneratia  griffithii</i>  based on sequences of the nuclear ribosomal internal transcribed spacer and 13 nuclear genes. <i><b>Journal of Systematics and Evolution</b></i>, 53(1): 47-52. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jse.12102">link</a>([link](https://onlinelibrary.wiley.com/doi/abs/10.1111/jse.12102))</li></ol>
 
