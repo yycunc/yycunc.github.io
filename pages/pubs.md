@@ -23,6 +23,8 @@ title: Yuchen Yang's publications
 
 ### 2020
 
+<ol start="26"> <li><b>Wang, L., Ma, H., Huang, P., Xie, Y., Near, D., Xu, J., <b>Yang, Y.</b>, ..., Qian, L. Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</i></b>, Accepted.</li></ol>
+
 <ol start="25"> <li><b>Yang, Y.<sup>&dagger;</sup></b>, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. <i><b>Briefings in Bioinformatics</i></b>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/672261v2.abstract">link</a>></li></ol>
 
 <ol start="24"> <li><b>Yang, Y.</b>, Li, Y., Sancar, A., Oztas, O. (2020) The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. <i><b>Journal of Biological Chemistry</i></b>, 295:7608-7619. <<a href="https://www-jbc-org.libproxy.lib.unc.edu/content/295/22/7608">link</a>></li></ol>
