@@ -15,7 +15,7 @@ title: Yuchen Yang's publications
 
 ### Preprint
 
-<ol start="3"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>bioRxiv</i></b>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
+<ol start="3"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
 
 <ol start="2"> <li>Crowley, C., <b>Yang, Y.</b>, Qiu, Y., Hu, B., Lipiński, J., Plewczynski, D., Won, H., Ren, B., Hu, M., Li, Y. FIREcaller: detecting frequently interacting regions from Hi-C data. <i><b>bioRxiv</i></b>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/619288v1.abstract">link</a>></li></ol>
 
