@@ -80,7 +80,7 @@ title: Yuchen Yang's publications
 
 ### 2015
 
-<ol start="3"> <li><b>Yang Y.</b>, Yang, S., Li, J., Deng, Y., Zhang, Z., Xu, S., Guo, W., Zhong, C., Zhou, R., Shi, S. (2015) Transcriptome analysis of the Holly mangrove <i>Acanthus ilicifolius</i> and its terrestrial relative, <i>Acanthus leucostachyus</i>, provides insights into adaptation to intertidal zones. <i><b>BMC Genomics</i></b>, 16: 605. PMID: 26272068. <<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1813-9">link</a>></li></ol>
+<ol start="3"> <li><b>Yang Y.</b>, Yang, S., Li, J., Deng, Y., Zhang, Z., Xu, S., Guo, W., Zhong, C., Zhou, R., Shi, S. (2015) Transcriptome analysis of the Holly mangrove <i>Acanthus ilicifolius</i> and its terrestrial relative, <i>Acanthus leucostachyus</i>, provides insights into adaptation to intertidal zones. <i><b>BMC Genomics</b></i>, 16: 605. PMID: 26272068. <<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1813-9">link</a>></li></ol>
 
 <ol start="2"> <li><b>Yang, Y.</b>, Yang, S., Li, J., Li, X., Zhong, C., Huang, Y., Zhou, R., Shi, S. (2015) De novo assembly of the transcriptomes of two yellow mangroves, <i>Ceriops tagal</i>  and <i>C. zippeliana</i> , and one of their terrestrial relatives, <i>Pellacalyx yunnanensis</i>. <i><b>Marine Genomics</b></i>, 23: 33-36. PMID: 25899405. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874778715000586">link</a>></li></ol>
 
