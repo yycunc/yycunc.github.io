@@ -66,7 +66,7 @@ title: Yuchen Yang's publications
 
 <ol start="10"> <li><b>Yang, Y.</b>, Duke, N.C., Peng, F., Li, J., Yang, S., Zhong, C., Zhou, R., Shi, S. (2016) Ancient geographical barriers drive differentiation among <i>Sonneratia caseolaris</i>. populations and recent divergence from *S. lanceolata*. <i><b>Frontiers in Plant Science</b></i>, 7: 1618. PMID: 27833634. <<a href="https://www.frontiersin.org/articles/10.3389/fpls.2016.01618/full">link</a>></li></ol>
 
-<ol start="9"> <li>Li, J., <b>Yang, Y.</b>, Chen, Q., Fang, L., He, Z., Guo, W., Qiao, S., Wang, Z., Guo, M., Zhong, C., Zhou R., Shi. S. (2016) Pronounced genetic differentiation and recent secondary contact in the mangrove tree Lumnitzera racemosa revealed by population genomic analyses. <i><b>Scientific Reports</b></i>, 6: 29486. PMID: 27380895. <<a href="(https://www.nature.com/articles/srep29486">link</a>></li></ol>
+<ol start="9"> <li>Li, J., <b>Yang, Y.</b>, Chen, Q., Fang, L., He, Z., Guo, W., Qiao, S., Wang, Z., Guo, M., Zhong, C., Zhou R., Shi. S. (2016) Pronounced genetic differentiation and recent secondary contact in the mangrove tree Lumnitzera racemosa revealed by population genomic analyses. <i><b>Scientific Reports</b></i>, 6: 29486. PMID: 27380895. <<a href="https://www.nature.com/articles/srep29486">link</a>></li></ol>
 
 <ol start="8"> <li>Fang, L., <b>Yang, Y.</b>, Guo, W., Li, J., Zhong, C., Huang, Y., Zhou, R., Shi, S. (2016) De novo assembly of the transcriptome of <i>Aegiceras corniculatum</i>, a mangrove species in the Indo-West Pacific region. <i><b>Marine Genomics</b></i>, 28: 49–52. PMID: 27296448. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874778716300526">link</a>></li></ol>
 
