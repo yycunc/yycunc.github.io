@@ -19,7 +19,7 @@ title: Yuchen Yang's publications
 
 <ol start="2"> <li>Crowley, C., <b>Yang, Y.</b>, Qiu, Y., Hu, B., Lipiński, J., Plewczynski, D., Won, H., Ren, B., Hu, M., Li, Y. FIREcaller: detecting frequently interacting regions from Hi-C data. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/619288v1.abstract">link</a>></li></ol>
 
-<ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Crowley, C., Liu, X., Juric, I., <i>et al<i>. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
+<ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Crowley, C., Liu, X., Juric, I., <i>et al</i>. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2020
 
