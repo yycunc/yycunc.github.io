@@ -29,7 +29,7 @@ title: Yuchen Yang's publications
 
 <ol start="24"> <li><b>Yang, Y.</b>, Li, Y., Sancar, A., Oztas, O. (2020) The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. <i><b>Journal of Biological Chemistry</b></i>, 295:7608-7619. PMID: 32303634. <<a href="https://www-jbc-org.libproxy.lib.unc.edu/content/295/22/7608">link</a>></li></ol>
 
-<ol start="23"> <li>Feng, X., Xu, S., Li, J., <b>Yang, Y.</b>, Chen, Q., Lyu, H., Zhong, C., He, Z., Shi, S. (2020) Molecular adaptation to salinity fluctuation in tropical intertidal environments of a mangrove tree *Sonneratia alba*. <i><b>BMC Plant Biology</b></i>, 20:178. PMID: 32321423. <<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02395-3">link</a>></li></ol>
+<ol start="23"> <li>Feng, X., Xu, S., Li, J., <b>Yang, Y.</b>, Chen, Q., Lyu, H., Zhong, C., He, Z., Shi, S. (2020) Molecular adaptation to salinity fluctuation in tropical intertidal environments of a mangrove tree <i>Sonneratia alba</i>. <i><b>BMC Plant Biology</b></i>, 20:178. PMID: 32321423. <<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02395-3">link</a>></li></ol>
 
 <ol start="22"> <li>Johnson, N., Huang, L., Li, R., Li, Y., <b>Yang, Y.</b>, Kim H., et al. (2020) Age-related DNA hydroxymethylation is enriched for gene expression and immune system processes in human peripheral blood. <i><b>Epigenetics</b></i>, 15: 294-306. PMID: 31506003. <<a href="https://www.tandfonline.com/doi/abs/10.1080/15592294.2019.1666651">link</a>></li></ol>
 
@@ -54,7 +54,7 @@ title: Yuchen Yang's publications
 
 ### 2017
 
-<ol start="14"> <li><b>Yang, Y.</b>, Li, J., Yang, S., Li, X., Fang, L., Zhong, C., Duke, N., Zhou, R., Shi, S. (2016) Effects of Pleistocene sea-level fluctuations on mangrove population dynamics: A lesson from <i>Sonneratia alba</i>. <i><b>BMC Evolutionary Biology</b></i>, 17: 22. PMID: 28100168. <<a href="https://link.springer.com/article/10.1186/s12862-016-0849-z">link</a>></li></ol>
+<ol start="14"> <li><b>Yang, Y.</b>, Li, J., Yang, S., Li, X., Fang, L., Zhong, C., Duke, N., Zhou, R., Shi, S. (2017) Effects of Pleistocene sea-level fluctuations on mangrove population dynamics: A lesson from <i>Sonneratia alba</i>. <i><b>BMC Evolutionary Biology</b></i>, 17: 22. PMID: 28100168. <<a href="https://link.springer.com/article/10.1186/s12862-016-0849-z">link</a>></li></ol>
 
 <ol start="13"> <li>Li, J., <b>Yang, Y.</b>, Yang, S., Zhang, Z., Chen, S., Zhong, C., Zhou, R., Shi, S. (2017) Comparative transcriptome analyses of a mangrove tree <i>Sonneratia caseolaris</i> and its non-mangrove relatives, <i>Trapa bispinosa</i> and <i>Duabanga grandiflora</i>. <i><b>Marine Genomics</b></i>, 31: 13-15. PMID: 27810366. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874778716301349">link</a>></li></ol>
 
