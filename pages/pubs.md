@@ -23,11 +23,11 @@ title: Yuchen Yang's publications
 
 ### 2020
 
-<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
+<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
 
-<ol start="26"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
+<ol start="26"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
-<ol start="25"> <li><b>Yang, Y.<sup>&dagger;</sup></b>, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. <i><b>Briefings in Bioinformatics</b></i>, bbaa097. PMID: 32591778. <<a href="https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa097/5855265?redirectedFrom=fulltext">link</a>></li></ol>
+<ol start="25"> <li><b>Yang, Y.<sup>&dagger;</sup></b>, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. (2020) SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. <i><b>Briefings in Bioinformatics</b></i>, bbaa097. PMID: 32591778. <<a href="https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa097/5855265?redirectedFrom=fulltext">link</a>></li></ol>
 
 <ol start="24"> <li><b>Yang, Y.</b>, Li, Y., Sancar, A., Oztas, O. (2020) The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. <i><b>Journal of Biological Chemistry</b></i>, 295:7608-7619. PMID: 32303634. <<a href="https://www-jbc-org.libproxy.lib.unc.edu/content/295/22/7608">link</a>></li></ol>
 
