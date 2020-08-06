@@ -23,7 +23,9 @@ title: Yuchen Yang's publications
 
 ### 2020
 
-<ol start="26"> <li>Wang, L., Ma, H., Huang, P., Xie, Y., Near, D., Ravi, K., Xu, J., <b>Yang, Y.</b>, ..., Qian, L. Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
+<ol start="27"> <li>Wang, L., Ma, H., Huang, P., Xie, Y., Near, D., Ravi, K., Xu, J., <b>Yang, Y.</b>, ..., Qian, L. Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
+
+<ol start="26"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
 <ol start="25"> <li><b>Yang, Y.<sup>&dagger;</sup></b>, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. <i><b>Briefings in Bioinformatics</b></i>, bbaa097. PMID: 32591778. <<a href="https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa097/5855265?redirectedFrom=fulltext">link</a>></li></ol>
 
