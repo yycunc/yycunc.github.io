@@ -23,7 +23,7 @@ title: Yuchen Yang's publications
 
 ### 2020
 
-<ol start="27"> <li>Wang, L., Ma, H., Huang, P., Xie, Y., Near, D., Ravi, K., Xu, J., <b>Yang, Y.</b>, ..., Qian, L. Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
+<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
 
 <ol start="26"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
@@ -33,7 +33,7 @@ title: Yuchen Yang's publications
 
 <ol start="23"> <li>Feng, X., Xu, S., Li, J., <b>Yang, Y.</b>, Chen, Q., Lyu, H., Zhong, C., He, Z., Shi, S. (2020) Molecular adaptation to salinity fluctuation in tropical intertidal environments of a mangrove tree <i>Sonneratia alba</i>. <i><b>BMC Plant Biology</b></i>, 20:178. PMID: 32321423. <<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02395-3">link</a>></li></ol>
 
-<ol start="22"> <li>Johnson, N., Huang, L., Li, R., Li, Y., <b>Yang, Y.</b>, Kim H., et al. (2020) Age-related DNA hydroxymethylation is enriched for gene expression and immune system processes in human peripheral blood. <i><b>Epigenetics</b></i>, 15: 294-306. PMID: 31506003. <<a href="https://www.tandfonline.com/doi/abs/10.1080/15592294.2019.1666651">link</a>></li></ol>
+<ol start="22"> <li>Johnson, N., Huang, L., Li, R., ..., <b>Yang, Y.</b>, ..., Conneely, K. (2020) Age-related DNA hydroxymethylation is enriched for gene expression and immune system processes in human peripheral blood. <i><b>Epigenetics</b></i>, 15: 294-306. PMID: 31506003. <<a href="https://www.tandfonline.com/doi/abs/10.1080/15592294.2019.1666651">link</a>></li></ol>
 
 <ol start="21"> <li>Huh, R.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Jiang, Y., Shen, Y., Li, Y. (2020) SAME-clustering: Single-cell Aggregated Clustering via Mixture Model Ensemble. <i><b>Nucleic Acids Research</b></i>, 48: 86-95. PMID: 31777938. <<a href="https://academic.oup.com/nar/article/48/1/86/5644992">link</a>></li></ol>
 
@@ -46,7 +46,7 @@ title: Yuchen Yang's publications
 
 <ol start="18"> <li>Zhou Q.<sup>&dagger;</sup>, <b>Yang Y.<sup>&dagger;</sup></b>, Yang Z. (2019) Molecular dissection of cadmium-responsive transcriptome profile in a low-cadmium-accumulating cultivar of <i>Brassica parachinensis</i>. <i><b>Ecotoxicology and Environmental Safety</b></i>, 176: 85-94. PMID: 30921700. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S0147651319303495">link</a>></li></ol>
 
-<ol start="17"> <li>Juric I., Yu M., Abnousi A., Raviram R., Fang R., Zhao Y., Zhang Y., Qiu Y., <b>Yang Y.</b>, Li Y., Bing Ren B., Hu M. (2019) MAPS: model-based analysis of long-range chromatin interactions from PLAC-seq and HiChIP experiments. <i><b>PLOS Computational Biology</b></i>, 15(4): e1006982. PMID: 30986246. <<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006982">link</a>></li></ol>
+<ol start="17"> <li>Juric I., Yu M., Abnousi A., ..., <b>Yang Y.</b>, ..., Bing Ren B., Hu M. (2019) MAPS: model-based analysis of long-range chromatin interactions from PLAC-seq and HiChIP experiments. <i><b>PLOS Computational Biology</b></i>, 15(4): e1006982. PMID: 30986246. <<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006982">link</a>></li></ol>
 
 ### 2018
 
@@ -68,7 +68,7 @@ title: Yuchen Yang's publications
 
 <ol start="10"> <li><b>Yang, Y.</b>, Duke, N.C., Peng, F., Li, J., Yang, S., Zhong, C., Zhou, R., Shi, S. (2016) Ancient geographical barriers drive differentiation among <i>Sonneratia caseolaris</i>. populations and recent divergence from <i>S. lanceolata</i>. <i><b>Frontiers in Plant Science</b></i>, 7: 1618. PMID: 27833634. <<a href="https://www.frontiersin.org/articles/10.3389/fpls.2016.01618/full">link</a>></li></ol>
 
-<ol start="9"> <li>Li, J., <b>Yang, Y.</b>, Chen, Q., Fang, L., He, Z., Guo, W., Qiao, S., Wang, Z., Guo, M., Zhong, C., Zhou R., Shi. S. (2016) Pronounced genetic differentiation and recent secondary contact in the mangrove tree <i>Lumnitzera racemosa</i> revealed by population genomic analyses. <i><b>Scientific Reports</b></i>, 6: 29486. PMID: 27380895. <<a href="https://www.nature.com/articles/srep29486">link</a>></li></ol>
+<ol start="9"> <li>Li, J., <b>Yang, Y.</b>, Chen, Q., ..., Zhou R., Shi. S. (2016) Pronounced genetic differentiation and recent secondary contact in the mangrove tree <i>Lumnitzera racemosa</i> revealed by population genomic analyses. <i><b>Scientific Reports</b></i>, 6: 29486. PMID: 27380895. <<a href="https://www.nature.com/articles/srep29486">link</a>></li></ol>
 
 <ol start="8"> <li>Fang, L., <b>Yang, Y.</b>, Guo, W., Li, J., Zhong, C., Huang, Y., Zhou, R., Shi, S. (2016) De novo assembly of the transcriptome of <i>Aegiceras corniculatum</i>, a mangrove species in the Indo-West Pacific region. <i><b>Marine Genomics</b></i>, 28: 49–52. PMID: 27296448. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874778716300526">link</a>></li></ol>
 
