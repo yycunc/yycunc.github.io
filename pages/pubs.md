@@ -23,7 +23,7 @@ title: Yuchen Yang's publications
 
 ### 2020
 
-<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
+<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Downregulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
 
 <ol start="26"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
