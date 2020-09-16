@@ -5,9 +5,9 @@ title: News
 
 ## 2020
 
-<b>Augest, 2020</b><br/> 
+<b>September 16, 2020</b><br/> 
 
-The research article "Beclin1 Shapes Cardiomyocyte Cell Identity Independent of Its Autophagic Function" I co-authored is 
+The research article "Downregulation of Beclin1 promotes direct cardiac reprogramming" I co-authored is 
 accepted for publication in ***Science Translational Medicine***.<br/>
 <br/>
 
