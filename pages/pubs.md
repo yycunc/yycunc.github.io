@@ -14,7 +14,7 @@ title: Yuchen Yang's publications
 &dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
 
 ### Preprint
-<ol start="4"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y., </b>, ..., Zhu, H. Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>>
+<ol start="4"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y., </b>, ..., Zhu, H. Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="3"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
 
