@@ -43,7 +43,7 @@ title: Yuchen Yang's publications
 
 <ol start="21"> <li>Li, G., <b>Yang, Y.</b>, Van Buren, E., Li, Y. (2019) Dropout Imputation and Batch Effect Correction for Single-Cell RNA-seq Data. <i><b>Journal of Bio-X Research</b></i>, 2: 169-177. <<a href="https://journals.lww.com/jbioxresearch/Fulltext/2019/12000/Dropout_imputation_and_batch_effect_correction_for.4.aspx">link</a>></li></ol>
 
-<ol start="20"> <li>Giusti-Rodriguez, P., Lu, L, <b>Yang, Y.</b>, ..., Sullivan, P. (2019) SA72A HIGH-RESOLUTION MAP OF CHROMATIN INTERACTIONS IN ADULT AND FETAL CORTEX. <i><b>European Neuropsychopharmacology</b></i> 29, S1227. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S0924977X18305984?via%3Dihub">link<a/>></li></ol>
+<ol start="20"> <li>Giusti-Rodriguez, P., Lu, L, <b>Yang, Y.</b>, ..., Sullivan, P. (2019) SA72A HIGH-RESOLUTION MAP OF CHROMATIN INTERACTIONS IN ADULT AND FETAL CORTEX. <i><b>European Neuropsychopharmacology</b></i>, 29, S1227. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S0924977X18305984?via%3Dihub">link</a>></li></ol>
 
 <ol start="19"> <li><b>Yang, Y.</b>, Huh, R., Culpepper, H., Lin, Y., Love, M., Li, Y. (2019) SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data. <i><b>Bioinformatics</b></i>, 35: 1269-1277. PMID: 30202935. <<a href="https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931">link</a>></li></ol>
 
