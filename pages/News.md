@@ -5,6 +5,11 @@ title: News
 
 ## 2020
 
+<b>October 20, 2020</b><br/> 
+
+The research article "Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (*Punica granatum* L.)" I co-corresponding-authored is accepted for publication in ***Plant Physiology and Biochemistry***.<br/>
+<br/>
+
 <b>September 16, 2020</b><br/> 
 
 The research article "Downregulation of Beclin1 promotes direct cardiac reprogramming" I co-authored is 
