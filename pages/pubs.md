@@ -23,6 +23,7 @@ title: Yuchen Yang's publications
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2020
+<ol start="29"> <li>Qian, J., Zhang, X., Yan, Y., Wang, W., Ge, W., Zhou, Q.*, <b>Yang, Y.*</b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (Punica granatum L.). <i><b>Plant Physiology and Biochemistry</b></i>. Accepted.</li></ol>
 
 <ol start="28"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Downregulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
 
