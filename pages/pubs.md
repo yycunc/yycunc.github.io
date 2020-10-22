@@ -23,11 +23,11 @@ title: Yuchen Yang's publications
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2020
-<ol start="29"> <li>Qian, J., Zhang, X., Yan, Y., Wang, W., Ge, W., Zhou, Q.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (<i>Punica granatum</i> L.). <i><b>Plant Physiology and Biochemistry</b></i>. Accepted.</li></ol>
+<ol start="29"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
-<ol start="28"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Down-regulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, 12:eaay7856. PMID: 33087505.<<a href="https://stm.sciencemag.org/content/12/566/eaay7856/tab-pdf">link</a></li></ol>
+<ol start="28"> <li>Qian, J., Zhang, X., Yan, Y., Wang, W., Ge, W., Zhou, Q.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (<i>Punica granatum</i> L.). <i><b>Plant Physiology and Biochemistry</b></i>. Accepted.</li></ol>
 
-<ol start="27"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
+<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Down-regulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, 12:eaay7856. PMID: 33087505.<<a href="https://stm.sciencemag.org/content/12/566/eaay7856/tab-pdf">link</a>></li></ol>
 
 <ol start="26"> <li><b>Yang, Y.<sup>&dagger;</sup></b>, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. (2020) SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. <i><b>Briefings in Bioinformatics</b></i>, bbaa097. PMID: 32591778. <<a href="https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa097/5855265?redirectedFrom=fulltext">link</a>></li></ol>
 
