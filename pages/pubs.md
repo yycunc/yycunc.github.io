@@ -25,7 +25,7 @@ title: Yuchen Yang's publications
 ### 2020
 <ol start="29"> <li>Qian, J., Zhang, X., Yan, Y., Wang, W., Ge, W., Zhou, Q.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (<i>Punica granatum</i> L.). <i><b>Plant Physiology and Biochemistry</b></i>. Accepted.</li></ol>
 
-<ol start="28"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Downregulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, Accepted.</li></ol>
+<ol start="28"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Down-regulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, 12:eaay7856. PMID: 33087505.<<a href="https://stm.sciencemag.org/content/12/566/eaay7856/tab-pdf">link</a></li></ol>
 
 <ol start="27"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
