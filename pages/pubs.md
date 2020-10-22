@@ -27,13 +27,13 @@ title: Yuchen Yang's publications
 
 <ol start="28"> <li>Qian, J., Zhang, X., Yan, Y., Wang, W., Ge, W., Zhou, Q.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (<i>Punica granatum</i> L.). <i><b>Plant Physiology and Biochemistry</b></i>. Accepted.</li></ol>
 
-<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Down-regulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, 12:eaay7856. PMID: 33087505.<<a href="https://stm.sciencemag.org/content/12/566/eaay7856/tab-pdf">link</a>></li></ol>
+<ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Down-regulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, 12(566): eaay7856. PMID: 33087505.<<a href="https://stm.sciencemag.org/content/12/566/eaay7856/tab-pdf">link</a>></li></ol>
 
 <ol start="26"> <li><b>Yang, Y.<sup>&dagger;</sup></b>, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. (2020) SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. <i><b>Briefings in Bioinformatics</b></i>, bbaa097. PMID: 32591778. <<a href="https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa097/5855265?redirectedFrom=fulltext">link</a>></li></ol>
 
-<ol start="25"> <li><b>Yang, Y.</b>, Li, Y., Sancar, A., Oztas, O. (2020) The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. <i><b>Journal of Biological Chemistry</b></i>, 295:7608-7619. PMID: 32303634. <<a href="https://www-jbc-org.libproxy.lib.unc.edu/content/295/22/7608">link</a>></li></ol>
+<ol start="25"> <li><b>Yang, Y.</b>, Li, Y., Sancar, A., Oztas, O. (2020) The circadian clock shapes the Arabidopsis transcriptome through regulating alternative splicing and alternative polyadenylation. <i><b>Journal of Biological Chemistry</b></i>, 295: 7608-7619. PMID: 32303634. <<a href="https://www-jbc-org.libproxy.lib.unc.edu/content/295/22/7608">link</a>></li></ol>
 
-<ol start="24"> <li>Feng, X., Xu, S., Li, J., <b>Yang, Y.</b>, Chen, Q., Lyu, H., Zhong, C., He, Z., Shi, S. (2020) Molecular adaptation to salinity fluctuation in tropical intertidal environments of a mangrove tree <i>Sonneratia alba</i>. <i><b>BMC Plant Biology</b></i>, 20:178. PMID: 32321423. <<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02395-3">link</a>></li></ol>
+<ol start="24"> <li>Feng, X., Xu, S., Li, J., <b>Yang, Y.</b>, Chen, Q., Lyu, H., Zhong, C., He, Z., Shi, S. (2020) Molecular adaptation to salinity fluctuation in tropical intertidal environments of a mangrove tree <i>Sonneratia alba</i>. <i><b>BMC Plant Biology</b></i>, 20: 178. PMID: 32321423. <<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02395-3">link</a>></li></ol>
 
 <ol start="23"> <li>Johnson, N., Huang, L., Li, R., ..., <b>Yang, Y.</b>, ..., Conneely, K. (2020) Age-related DNA hydroxymethylation is enriched for gene expression and immune system processes in human peripheral blood. <i><b>Epigenetics</b></i>, 15: 294-306. PMID: 31506003. <<a href="https://www.tandfonline.com/doi/abs/10.1080/15592294.2019.1666651">link</a>></li></ol>
 
@@ -44,7 +44,7 @@ title: Yuchen Yang's publications
 
 <ol start="21"> <li>Li, G., <b>Yang, Y.</b>, Van Buren, E., Li, Y. (2019) Dropout Imputation and Batch Effect Correction for Single-Cell RNA-seq Data. <i><b>Journal of Bio-X Research</b></i>, 2: 169-177. <<a href="https://journals.lww.com/jbioxresearch/Fulltext/2019/12000/Dropout_imputation_and_batch_effect_correction_for.4.aspx">link</a>></li></ol>
 
-<ol start="20"> <li>Giusti-Rodriguez, P., Lu, L, <b>Yang, Y.</b>, ..., Sullivan, P. (2019) SA72A HIGH-RESOLUTION MAP OF CHROMATIN INTERACTIONS IN ADULT AND FETAL CORTEX. <i><b>European Neuropsychopharmacology</b></i>, 29, S1227. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S0924977X18305984?via%3Dihub">link</a>></li></ol>
+<ol start="20"> <li>Giusti-Rodriguez, P., Lu, L, <b>Yang, Y.</b>, ..., Sullivan, P. (2019) SA72A HIGH-RESOLUTION MAP OF CHROMATIN INTERACTIONS IN ADULT AND FETAL CORTEX. <i><b>European Neuropsychopharmacology</b></i>, 29: S1227. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S0924977X18305984?via%3Dihub">link</a>></li></ol>
 
 <ol start="19"> <li><b>Yang, Y.</b>, Huh, R., Culpepper, H., Lin, Y., Love, M., Li, Y. (2019) SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data. <i><b>Bioinformatics</b></i>, 35: 1269-1277. PMID: 30202935. <<a href="https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931">link</a>></li></ol>
 
