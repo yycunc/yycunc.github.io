@@ -25,7 +25,7 @@ title: Yuchen Yang's publications
 ### 2020
 <ol start="30"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
-<ol start="29"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted.</li></ol>
+<ol start="29"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted.</li></ol>
 
 <ol start="28"> <li>Qian, J., Zhang, X., Yan, Y., Wang, W., Ge, W., Zhou, Q.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (<i>Punica granatum</i> L.). <i><b>Plant Physiology and Biochemistry</b></i>. In Press. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S0981942820305222">link</a>></li></ol>
 
