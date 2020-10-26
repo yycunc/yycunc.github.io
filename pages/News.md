@@ -7,7 +7,7 @@ title: News
 
 <b>October 26, 2020</b><br/> 
 
-The research article "Assessment of Familial Risk in Patients with Hidradenitis Suppurativa" I co-authored is provisionally accepted for publication in ***British Journal of Dermatology.***.<br/>
+The research article "Assessment of Familial Risk in Patients with Hidradenitis Suppurativa" I co-authored is provisionally accepted for publication in ***British Journal of Dermatology***.<br/>
 <br/>
 
 <b>October 20, 2020</b><br/> 
