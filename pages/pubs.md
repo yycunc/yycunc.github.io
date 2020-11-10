@@ -14,7 +14,11 @@ title: Yuchen Yang's publications
 &dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
 
 ### Preprint
-<ol start="4"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y., </b>, ..., Zhu, H. Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
+<ol start="5"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Yang, Y., Liu, J., Qian, L., Li, Y. iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
+
+<ol start="5"> <li> Lagler, T., <b>Yang, Y.</b>, Abnousi, A., Hu, M., Li, Y. HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
+
+<ol start="4"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="3"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
 
