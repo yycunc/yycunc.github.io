@@ -11,6 +11,7 @@ title: Yuchen Yang' Software
 
 **SMNN**: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection ([GitHub](https://github.com/yycunc/SMNN), [vignettes](https://github.com/yycunc/SMNN/blob/master/README.md))
 
+**iSMNN**: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement ([GitHub](https://github.com/yycunc/iSMNN), [vignettes](https://github.com/yycunc/iSMNN/blob/main/README.md))
 
 ### Hi-C
 
