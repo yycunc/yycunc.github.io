@@ -14,7 +14,7 @@ title: Yuchen Yang's publications
 &dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
 
 ### Preprint
-<ol start="5"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
+<ol start="6"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></li></ol>
 
 <ol start="5"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Yang, Y., Liu, J., Qian, L., Li, Y. iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
 
