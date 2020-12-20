@@ -7,6 +7,7 @@ title: News
 <b>December 20, 2020</b><br/> 
 
 The research article "FIREcaller: detecting frequently interacting regions from Hi-C data" I co-authored is accepted for publication in ***Computational and Structural Biotechnology Journal***.<br/>
+<br/>
 
 <b>October 26, 2020</b><br/> 
 
