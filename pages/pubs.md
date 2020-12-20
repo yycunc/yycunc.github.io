@@ -14,25 +14,25 @@ title: Yuchen Yang's publications
 &dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
 
 ### Preprint
-<ol start="9"> <li> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></li></ol>
+<ol start="8"> <li> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></li></ol>
   
-<ol start="8"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
+<ol start="7"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
   
-<ol start="7"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></li></ol>
+<ol start="6"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></li></ol>
 
-<ol start="6"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Yang, Y., Liu, J., Qian, L., Li, Y. iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
+<ol start="5"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Yang, Y., Liu, J., Qian, L., Li, Y. iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
 
-<ol start="5"> <li> Lagler, T., <b>Yang, Y.</b>, Abnousi, A., Hu, M., Li, Y. HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
+<ol start="4"> <li> Lagler, T., <b>Yang, Y.</b>, Abnousi, A., Hu, M., Li, Y. HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
 
-<ol start="4"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
+<ol start="3"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
-<ol start="3"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
-
-<ol start="2"> <li>Crowley, C., <b>Yang, Y.</b>, Qiu, Y., Hu, B., Lipiński, J., Plewczynski, D., Won, H., Ren, B., Hu, M., Li, Y. FIREcaller: detecting frequently interacting regions from Hi-C data. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/619288v1.abstract">link</a>></li></ol>
+<ol start="2"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
 
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2020
+<ol start="31"> <li>Crowley, C., <b>Yang, Y.</b>, Qiu, Y., ..., Hu, M., Li, Y. (2020) FIREcaller: detecting frequently interacting regions from Hi-C data. <i><b>Computational and Structural Biotechnology Journal</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/619288v1.abstract">link</a>></li></ol>
+
 <ol start="30"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
 <ol start="29"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted.</li></ol>
