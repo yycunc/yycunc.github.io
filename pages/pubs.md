@@ -30,9 +30,10 @@ title: Yuchen Yang's publications
 
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
-### 2020
-<ol start="31"> <li>Crowley, C., <b>Yang, Y.</b>, Qiu, Y., ..., Hu, M., Li, Y. (2020) FIREcaller: Detecting Frequently Interacting Regions from Hi-C Data. <i><b>Computational and Structural Biotechnology Journal</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/619288v1.abstract">link</a>></li></ol>
+### 2021
+<ol start="31"> <li>Crowley, C., <b>Yang, Y.<sup>&sect;</sup></b>, Qiu, Y., ..., Hu, M.<sup>&sect;</sup>, Li, Y.<sup>&sect;</sup> (2021) FIREcaller: Detecting Frequently Interacting Regions from Hi-C Data. <i><b>Computational and Structural Biotechnology Journal</b></i>, 19: 355-362. <<a href="https://www.sciencedirect.com/science/article/pii/S2001037020305511?via%3Dihub">link</a>></li></ol>
 
+### 2020
 <ol start="30"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
 <ol start="29"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted.</li></ol>
