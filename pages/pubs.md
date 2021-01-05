@@ -14,15 +14,13 @@ title: Yuchen Yang's publications
 &dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
 
 ### Preprint
-<ol start="8"> <li> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></li></ol>
+<ol start="7"> <li> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></li></ol>
   
-<ol start="7"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
+<ol start="6"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
   
-<ol start="6"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></li></ol>
+<ol start="5"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></li></ol>
 
-<ol start="5"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Yang, Y., Liu, J., Qian, L., Li, Y. iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
-
-<ol start="4"> <li> Lagler, T., <b>Yang, Y.</b>, Abnousi, A., Hu, M., Li, Y. HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
+<ol start="4"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Yang, Y., Liu, J., Qian, L., Li, Y. iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
 
 <ol start="3"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
@@ -31,13 +29,15 @@ title: Yuchen Yang's publications
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2021
-<ol start="31"> <li>Crowley, C., <b>Yang, Y.<sup>&sect;</sup></b>, Qiu, Y., ..., Hu, M.<sup>&sect;</sup>, Li, Y.<sup>&sect;</sup> (2021) FIREcaller: Detecting Frequently Interacting Regions from Hi-C Data. <i><b>Computational and Structural Biotechnology Journal</b></i>, 19: 355-362. <<a href="https://www.sciencedirect.com/science/article/pii/S2001037020305511?via%3Dihub">link</a>></li></ol>
+<ol start="32"> <li> Lagler, T., <b>Yang, Y.<sup>&sect;</sup></b>, Abnousi, A., Hu, M.<sup>&sect;</sup>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>American Journal of Human Genetics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
+
+<ol start="31"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
+
+<ol start="30"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted.</li></ol>
+
+<ol start="29"> <li>Crowley, C., <b>Yang, Y.<sup>&sect;</sup></b>, Qiu, Y., ..., Hu, M.<sup>&sect;</sup>, Li, Y.<sup>&sect;</sup> (2021) FIREcaller: Detecting Frequently Interacting Regions from Hi-C Data. <i><b>Computational and Structural Biotechnology Journal</b></i>, 19: 355-362. <<a href="https://www.sciencedirect.com/science/article/pii/S2001037020305511?via%3Dihub">link</a>></li></ol>
 
 ### 2020
-<ol start="30"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
-
-<ol start="29"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted.</li></ol>
-
 <ol start="28"> <li>Qian, J., Zhang, X., Yan, Y., Wang, N., Ge, W., Zhou, Q.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (<i>Punica granatum</i> L.). <i><b>Plant Physiology and Biochemistry</b></i>, 157: 211-218. <<a href="https://www.sciencedirect.com/science/article/pii/S0981942820305222">link</a>></li></ol>
 
 <ol start="27"> <li>Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Down-regulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, 12(566): eaay7856. PMID: 33087505.<<a href="https://stm.sciencemag.org/content/12/566/eaay7856/tab-pdf">link</a>></li></ol>
