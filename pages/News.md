@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+## 2021
+<b>January 5, 2021</b><br/> 
+
+The research article "HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test" I co-corresponding-authored is accepted in principle for publication in ***American Journal of Human Genetics***.<br/>
+<br/>
+
 ## 2020
 <b>December 20, 2020</b><br/> 
 
@@ -27,8 +33,8 @@ accepted for publication in ***Science Translational Medicine***.<br/>
 
 <b>Augest 6, 2020</b><br/> 
 
-The review article "The New Era of Direct Cell Reprogramming: mechanisms and approaches" I co-authored (the second author) is 
-accepted for publication in ***Nature Reviews Molecular Cell Biology***.<br/>
+The review article "The New Era of Direct Cell Reprogramming: mechanisms and approaches" I co-authored is 
+accepted in principle for publication in ***Nature Reviews Molecular Cell Biology***.<br/>
 <br/>
 
 <b>May 1 , 2020</b><br/> 
