@@ -29,11 +29,11 @@ title: Yuchen Yang's publications
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>, 2020. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2021
-<ol start="32"> <li> Lagler, T., <b>Yang, Y.<sup>&sect;</sup></b>, Abnousi, A., Hu, M.<sup>&sect;</sup>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>American Journal of Human Genetics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
+<ol start="32"> <li> Lagler, T., Abnousi, A., Hu, M., <b>Yang, Y.<sup>&sect;</sup></b>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>American Journal of Human Genetics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
 
-<ol start="31"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2020) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
+<ol start="31"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2021) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
-<ol start="30"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted.</li></ol>
+<ol start="30"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2020) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, Accepted. <<a href ="https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.19664?af=R">link</a>></li></ol>
 
 <ol start="29"> <li>Crowley, C., <b>Yang, Y.<sup>&sect;</sup></b>, Qiu, Y., ..., Hu, M.<sup>&sect;</sup>, Li, Y.<sup>&sect;</sup> (2021) FIREcaller: Detecting Frequently Interacting Regions from Hi-C Data. <i><b>Computational and Structural Biotechnology Journal</b></i>, 19: 355-362. <<a href="https://www.sciencedirect.com/science/article/pii/S2001037020305511?via%3Dihub">link</a>></li></ol>
 
