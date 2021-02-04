@@ -31,7 +31,7 @@ title: Yuchen Yang's publications
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2021
-<ol start="32"> <li> Lagler, T., Abnousi, A., Hu, M., <b>Yang, Y.<sup>&sect;</sup></b>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test. <i><b>American Journal of Human Genetics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.10.28.359869v1">link</a>></li></ol>
+<ol start="32"> <li> Lagler, T., Abnousi, A., Hu, M., <b>Yang, Y.<sup>&sect;</sup></b>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: improved chromatin interactions from Hi-C data via aggregated Cauchy test. <i><b>American Journal of Human Genetics</b></i>, 108: 257-268. <<a href="https://www.sciencedirect.com/science/article/pii/S0002929721000094?dgcid=coauthor">link</a>></li></ol>
 
 <ol start="31"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2021) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, Accepted.</li></ol>
 
