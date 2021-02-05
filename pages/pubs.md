@@ -6,7 +6,7 @@ title: Yuchen Yang's publications
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li>14        <a href="https://scholar.google.com/citations?user=0CK0320AAAAJ">Google Scholar</a></li>
+          <li><a href="https://scholar.google.com/citations?user=0CK0320AAAAJ">Google Scholar</a></li>
       </ul>
   </div>
 </div>
