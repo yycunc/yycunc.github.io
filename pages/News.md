@@ -4,6 +4,11 @@ title: News
 ---
 
 ## 2021
+<b>January 15, 2021</b><br/> 
+
+The review article "Direct cell reprogramming: approaches, mechanisms and progress" I co-authored is accepted for publication in ***Nature Reviews Molecular Cell Biology***.<br/>
+<br/>
+
 <b>January 5, 2021</b><br/> 
 
 The research article "HiC-ACT: Improved Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test" I co-corresponding-authored is accepted in principle for publication in ***American Journal of Human Genetics***.<br/>
@@ -29,12 +34,6 @@ The research article "Unravelling the molecular mechanisms of Abscisic acid-medi
 
 The research article "Downregulation of Beclin1 promotes direct cardiac reprogramming" I co-authored is 
 accepted for publication in ***Science Translational Medicine***.<br/>
-<br/>
-
-<b>Augest 6, 2020</b><br/> 
-
-The review article "The New Era of Direct Cell Reprogramming: mechanisms and approaches" I co-authored is 
-accepted in principle for publication in ***Nature Reviews Molecular Cell Biology***.<br/>
 <br/>
 
 <b>May 1 , 2020</b><br/> 
