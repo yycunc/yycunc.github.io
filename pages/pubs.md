@@ -31,7 +31,7 @@ title: Yuchen Yang's publications
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2021
-<ol start="32"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2021) The New Era of Direct Cell Reprogramming: mechanisms and approaches. <i><b>Nature Reviews Molecular Cell Biology</b></i>, https://doi.org/10.1038/s41580-021-00335-z. <<a href="https://www.nature.com/articles/s41580-021-00335-z#citeas">link</a>></li></ol>
+<ol start="32"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2021) Direct cell reprogramming: approaches, mechanisms and progress. <i><b>Nature Reviews Molecular Cell Biology</b></i>, https://doi.org/10.1038/s41580-021-00335-z. <<a href="https://www.nature.com/articles/s41580-021-00335-z#citeas">link</a>></li></ol>
 
 <ol start="31"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2021) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, DOI: 10.1111/bjd.19664. PMID: 33152101. <<a href ="https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.19664?af=R">link</a>></li></ol>
 
