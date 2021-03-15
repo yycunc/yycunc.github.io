@@ -14,22 +14,24 @@ title: Yuchen Yang's publications
 &dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
 
 ### Preprint
-<ol start="7"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021+) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.01.12.426467">link</a>></li></ol>
+<ol start="6"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021+) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.01.12.426467">link</a>></li></ol>
 
-<ol start="6"> <li> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. (2021+) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></li></ol>
+<ol start="5"> <li> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. (2021+) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></li></ol>
   
-<ol start="5"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
+<ol start="4"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
   
-<ol start="4"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. (2021+) MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></li></ol>
+<ol start="3"> <li> Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. (2021+) MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></li></ol>
 
-<ol start="3"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2021+) Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
-
-<ol start="2"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. (2021+) Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
+<ol start="2"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2021+) Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2021
-<ol start="34"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Lagler, T., Yang, Y., Liu, J., Qian, L., Li, Y. (2021+) iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>Briefings in Bioinformatics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
+<ol start="36"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. (2021+) Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>Journal of Biological Chemistry</b></i>. Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
+
+<ol start="35"> <li> Jiang, W., <b>Yang, Y.</b>, Mercer-Smith, A., …, Hingtgen S. (2021) iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>Science Advances</b></i>, Accepted.</li></ol>
+
+<ol start="34"> <li> <b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Lagler, T., Yang, Y., Liu, J., Qian, L., Li, Y. (2021) Development of Next-generation Tumor-homing Induced Neural Stem Cells to Enhance Treatment of Metastatic Cancers. <i><b>Briefings in Bioinformatics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375659v1?rss=1">link</a>></li></ol>
 
 <ol start="33"> <li>Yu, C., Littleton S., Giroux, N., ..., <b>Yang, Y.</b>, ..., Shen, X., Saban, D. (2021) Mucosal Associated Invariant T (MAIT) Cell Responses Differ by Sex in COVID-19. <i><b>Med</b></i>, Accepted.</li></ol>
 
@@ -37,7 +39,7 @@ title: Yuchen Yang's publications
 
 <ol start="31"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2021) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, DOI: 10.1111/bjd.19664. PMID: 33152101. <<a href ="https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.19664?af=R">link</a>></li></ol>
 
-<ol start="30"> <li> Lagler, T., Abnousi, A., Hu, M., <b>Yang, Y.<sup>&sect;</sup></b>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: improved chromatin interactions from Hi-C data via aggregated Cauchy test. <i><b>American Journal of Human Genetics</b></i>, 108: 257-268. <<a href="https://www.sciencedirect.com/science/article/pii/S0002929721000094?dgcid=coauthor">link</a>></li></ol>
+<ol start="30"> <li> Lagler, T., Abnousi, A., Hu, M., <b>Yang, Y.<sup>&sect;</sup></b>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: improved chromatin interactions from Hi-C data via aggregated Cauchy test. <i><b>American Journal of Human Genetics</b></i>, 108: 257-268. PMID: 33545029. <<a href="https://www.sciencedirect.com/science/article/pii/S0002929721000094?dgcid=coauthor">link</a>></li></ol>
 
 <ol start="29"> <li>Crowley, C., <b>Yang, Y.<sup>&sect;</sup></b>, Qiu, Y., ..., Hu, M.<sup>&sect;</sup>, Li, Y.<sup>&sect;</sup> (2021) FIREcaller: Detecting Frequently Interacting Regions from Hi-C Data. <i><b>Computational and Structural Biotechnology Journal</b></i>, 19: 355-362. PMID: 33489005. <<a href="https://www.sciencedirect.com/science/article/pii/S2001037020305511?via%3Dihub">link</a>></li></ol>
 
