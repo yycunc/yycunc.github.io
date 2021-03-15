@@ -4,11 +4,15 @@ title: News
 ---
 
 ## 2021
+<b>March 15, 2021</b><br/> 
+
+The research article "iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement" I first authored is 
+accepted for publication in ***Briefings in Bioinformatics***.<br/>
+
 <b>February 22, 2021</b><br/> 
 
 The research article "Mucosal Associated Invariant T (MAIT) Cell Responses Differ by Sex in COVID-19" I co-authored is accepted for publication in ***Med***.<br/>
 <br/>
-
 
 <b>January 15, 2021</b><br/> 
 
@@ -42,7 +46,7 @@ The research article "Downregulation of Beclin1 promotes direct cardiac reprogra
 accepted for publication in ***Science Translational Medicine***.<br/>
 <br/>
 
-<b>May 1 , 2020</b><br/> 
+<b>May 1, 2020</b><br/> 
 
 The research article "SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection" I co-first authored is 
 accepted for publication in ***Briefings in Bioinformatics***.<br/>
