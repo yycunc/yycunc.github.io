@@ -8,6 +8,7 @@ title: News
 
 The research article "iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement" I first authored is 
 accepted for publication in ***Briefings in Bioinformatics***.<br/>
+<br/>
 
 <b>February 22, 2021</b><br/> 
 
