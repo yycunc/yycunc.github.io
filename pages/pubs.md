@@ -14,6 +14,8 @@ title: Yuchen Yang's publications
 &dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
 
 ### Preprint
+<ol start="7"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
+
 <ol start="6"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021+) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.01.12.426467">link</a>></li></ol>
 
 <ol start="5"> <li> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. (2021+) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></li></ol>
