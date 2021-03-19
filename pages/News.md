@@ -4,6 +4,11 @@ title: News
 ---
 
 ## 2021
+<b>March 18, 2021</b><br/> 
+
+The research article "Super-hotspots and -coldspots in the repair of UV-induced DNA damage in the human genome" I co-authored is accepted for publication in ***Journal of Biological Chemistry***.<br/>
+<br/>
+
 <b>March 15, 2021</b><br/> 
 
 The research article "iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement" I first authored is 
