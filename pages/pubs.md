@@ -29,7 +29,9 @@ title: Yuchen Yang's publications
 <ol start="1"> <li>Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></li></ol>
 
 ### 2021
-<ol start="36"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. (2021) Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. <i><b>Journal of Biological Chemistry</b></i>. Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
+<ol start="37"> <li>Wang, L., <b>Yang, Y.<sup>&dagger;</sup></b>, Ma, H., ...., Qian, L. (2021) Single Cell Dual-Omics Reveals the Transcriptomic and Epigenomic Diversity of Cardiac Non-myocytes. <i><b>Cardiovascular Research</b></i>. Accepted.
+
+<ol start="36"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. (2021) Super-hotspots and -coldspots in the repair of UV-induced DNA damage in the human genome. <i><b>Journal of Biological Chemistry</b></i>. Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1">link</a>></li></ol>
 
 <ol start="35"> <li> Jiang, W., <b>Yang, Y.</b>, Mercer-Smith, A., …, Hingtgen S. (2021) Development of Next-generation Tumor-homing Induced Neural Stem Cells to Enhance Treatment of Metastatic Cancers. <i><b>Science Advances</b></i>, Accepted.</li></ol>
 
