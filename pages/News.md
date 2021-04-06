@@ -4,7 +4,12 @@ title: News
 ---
 
 ## 2021
-<b>March 18, 2021</b><br/> 
+<b>April 5, 2021</b><br/> 
+
+The research article "Single cell dual-omics reveals the transcriptomic and epigenomic diversity of cardiac non-myocytes" I co-authored is accepted for publication in ***Cardiovascular Research***.<br/>
+<br/>
+
+<b>March 22, 2021</b><br/> 
 
 The research article "Super-hotspots and -coldspots in the repair of UV-induced DNA damage in the human genome" I co-authored is accepted for publication in ***Journal of Biological Chemistry***.<br/>
 <br/>
