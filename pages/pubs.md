@@ -41,7 +41,7 @@ title: Yuchen Yang's publications
 
 <ol start="32"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2021) Direct cell reprogramming: approaches, mechanisms and progress. <i><b>Nature Reviews Molecular Cell Biology</b></i>, https://doi.org/10.1038/s41580-021-00335-z. PMID: 33619373. <<a href="https://www.nature.com/articles/s41580-021-00335-z#citeas">link</a>></li></ol>
 
-<ol start="31"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2021) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, DOI: 10.1111/bjd.19664. PMID: 33152101. <<a href ="https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.19664?af=R">link</a>></li></ol>
+<ol start="31"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2021) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, 184: 753-754. PMID: 33152101. <<a href ="https://onlinelibrary.wiley.com/doi/10.1111/bjd.19664">link</a>></li></ol>
 
 <ol start="30"> <li> Lagler, T., Abnousi, A., Hu, M., <b>Yang, Y.<sup>&sect;</sup></b>, Li, Y.<sup>&sect;</sup> (2021) HiC-ACT: improved chromatin interactions from Hi-C data via aggregated Cauchy test. <i><b>American Journal of Human Genetics</b></i>, 108: 257-268. PMID: 33545029. <<a href="https://www.sciencedirect.com/science/article/pii/S0002929721000094?dgcid=coauthor">link</a>></li></ol>
 
