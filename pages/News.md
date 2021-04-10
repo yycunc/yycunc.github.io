@@ -4,6 +4,11 @@ title: News
 ---
 
 ## 2021
+<b>April 9, 2021</b><br/> 
+
+The research article "Development of Next-generation Tumor-homing Induced Neural Stem Cells to Enhance Treatment of Metastatic Cancers" I co-authored is accepted for publication in ***Science Advances***.<br/>
+<br/>
+
 <b>April 5, 2021</b><br/> 
 
 The research article "Single cell dual-omics reveals the transcriptomic and epigenomic diversity of cardiac non-myocytes" I co-first-authored is accepted for publication in ***Cardiovascular Research***.<br/>
