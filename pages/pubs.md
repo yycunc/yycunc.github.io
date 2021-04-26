@@ -11,7 +11,7 @@ title: Yuchen Yang's publications
   </div>
 </div>
 
-&dagger; indicates co-first authors; &sect; indicates co-corresponding authors.
+<u>Lab Member</u>; &dagger; Co-first authors; &sect; Corresponding or co-corresponding authors.
 
 ### Preprint
 <ol start="7"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
