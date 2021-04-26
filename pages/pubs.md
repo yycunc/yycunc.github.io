@@ -33,13 +33,7 @@ title: Yuchen Yang's publications
 
 <ol start="36"> <li>Yu, C., Littleton S., Giroux, N., ..., <b>Yang, Y.</b>, ..., Shen, X., Saban, D. (2021) Mucosal Associated Invariant T (MAIT) Cell Responses Differ by Sex in COVID-19. <i><b>Med</b></i>, doi: https://doi.org/10.1016/j.medj.2021.04.008. <<a href="https://www.cell.com/med/pdf/S2666-6340(21)00157-4.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666634021001574%3Fshowall%3Dtrue">link</a>></li></ol>
 
-ol {
-  font: bold;
-  counter-increment: start 35;
-  }
-  li:before {
-  counter-increment: start;
-  } <li>Wang, L., <b>Yang, Y.<sup>&dagger;</sup></b>, Ma, H., ...., Liu, J., Qian, L. (2021) Single Cell Dual-Omics Reveals the Transcriptomic and Epigenomic Diversity of Cardiac Non-myocytes. <i><b>Cardiovascular Research</b></i>, cvab134. PMID: 33839759. <<a href="https://academic.oup.com/cardiovascres/advance-article-abstract/doi/10.1093/cvr/cvab134/6220323">link</a>></li></ol>
+<ol> <li> <b>35</b></li> <li>Wang, L., <b>Yang, Y.<sup>&dagger;</sup></b>, Ma, H., ...., Liu, J., Qian, L. (2021) Single Cell Dual-Omics Reveals the Transcriptomic and Epigenomic Diversity of Cardiac Non-myocytes. <i><b>Cardiovascular Research</b></i>, cvab134. PMID: 33839759. <<a href="https://academic.oup.com/cardiovascres/advance-article-abstract/doi/10.1093/cvr/cvab134/6220323">link</a>></li></ol>
 
 <ol start="34"> <li>Jiang, Y., Li, W., Lindsey-Boltz, L., <b>Yang, Y.</b>, Li, Y., Sancar, A. (2021) Super-hotspots and -coldspots in the repair of UV-induced DNA damage in the human genome. <i><b>Journal of Biological Chemistry</b></i>, https://doi.org/10.1016/j.jbc.2021.100581. PMID: 33771559. <<a href="https://www.jbc.org/article/S0021-9258(21)00361-6/fulltext">link</a>></li></ol>
 
