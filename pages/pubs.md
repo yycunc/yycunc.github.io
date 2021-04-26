@@ -34,7 +34,7 @@ title: Yuchen Yang's publications
 <ol start="36"> <li>Yu, C., Littleton S., Giroux, N., ..., <b>Yang, Y.</b>, ..., Shen, X., Saban, D. (2021) Mucosal Associated Invariant T (MAIT) Cell Responses Differ by Sex in COVID-19. <i><b>Med</b></i>, doi: https://doi.org/10.1016/j.medj.2021.04.008. <<a href="https://www.cell.com/med/pdf/S2666-6340(21)00157-4.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666634021001574%3Fshowall%3Dtrue">link</a>></li></ol>
 
 ol {
-  list-style: bold;
+  font: bold;
   counter-increment: start 35;
   }
   li:before {
