@@ -14,21 +14,21 @@ title: Yuchen Yang's publications
 <u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding or co-corresponding authors.
 
 ### Preprint
-<ol start="7"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
+<ol start="6"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
 
-<ol start="6"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021+) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.01.12.426467">link</a>></li></ol>
+<ol start="5"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021+) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.01.12.426467">link</a>></li></ol>
 
-<ol start="5" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. (2021+) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></span></li></ol>
+<ol start="4" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Yang, Y., <b>Yang, Y.</b>, Huang, L., Broome, J.G., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L.M., Li, Y. (2021+) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></span></li></ol>
   
-<ol start="4"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
-  
-<ol start="3" style="font-weight: bold;"> <li><span style="font-weight: normal;">Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. (2021+) MUNIn (Multiple cell-type UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple cell types. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></span></li></ol>
+<ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
 
 <ol start="2"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2021+) Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2021
+<ol start="38" style="font-weight: bold;"> <li><span style="font-weight: normal;">Liu, W., Abnousi, A., Zhang, Q., Li, Y.<sup>&sect;</sup>, Hu, M.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b>. (2021+) MUNIn (Multiple sample UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple samples. <i><b>Human Genetics and Genomics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.12.380782v1">link</a>></span></li></ol>
+
 <ol start="37"> <li> Jiang, W., <b>Yang, Y.</b>, Mercer-Smith, A., …, Hingtgen S. (2021) Development of Next-generation Tumor-homing Induced Neural Stem Cells to Enhance Treatment of Metastatic Cancers. <i><b>Science Advances</b></i>, Accepted.</li></ol>
 
 <ol start="36"> <li>Yu, C., Littleton S., Giroux, N., ..., <b>Yang, Y.</b>, ..., Shen, X., Saban, D. (2021) Mucosal Associated Invariant T (MAIT) Cell Responses Differ by Sex in COVID-19. <i><b>Med</b></i>, doi: https://doi.org/10.1016/j.medj.2021.04.008. <<a href="https://www.cell.com/med/pdf/S2666-6340(21)00157-4.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666634021001574%3Fshowall%3Dtrue">link</a>></li></ol>
