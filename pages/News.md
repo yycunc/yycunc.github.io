@@ -4,6 +4,11 @@ title: News
 ---
 
 ## 2021
+<b>May 11, 2021</b><br/> 
+
+The research article "MUNIn (Multiple sample UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple samples" I co-corresponding-authored is accepted for publication in ***Human Genetics and Genomics***.<br/>
+<br/>
+
 <b>April 9, 2021</b><br/> 
 
 The research article "Development of Next-generation Tumor-homing Induced Neural Stem Cells to Enhance Treatment of Metastatic Cancers" I co-authored is accepted for publication in ***Science Advances***.<br/>
