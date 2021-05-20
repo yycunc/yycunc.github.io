@@ -4,6 +4,11 @@ title: News
 ---
 
 ## 2021
+<b>May 18, 2021</b><br/> 
+
+The research article "SnapHiC: a computational pipeline to identify chromatin loops from single cell Hi-C data" I co-authored is accepted for publication in ***Nature Methods***.<br/>
+<br/>
+
 <b>May 11, 2021</b><br/> 
 
 The research article "MUNIn—multiple-sample-unifying long-range chromatin Interaction detector: a statistical framework for identifying long-range chromatin interactions from multiple samples" I co-corresponding-authored is accepted for publication in ***Human Genetics and Genomics***.<br/>
