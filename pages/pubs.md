@@ -41,7 +41,7 @@ title: Yuchen Yang's publications
 
 <ol start="33" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>Yang, Y.</b>, Li, G., Xie, Y., Wang, L., Lagler, T., Yang, Y., Liu, J., Qian, L., Li, Y. (2021) iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement. <i><b>Briefings in Bioinformatics</b></i>, bbab122. PMID: 33839756. <<a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab122/6220171?redirectedFrom=fulltext">link</a>></span></li></ol>
 
-<ol start="32"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2021) Direct cell reprogramming: approaches, mechanisms and progress. <i><b>Nature Reviews Molecular Cell Biology</b></i>, https://doi.org/10.1038/s41580-021-00335-z. PMID: 33619373. <<a href="https://www.nature.com/articles/s41580-021-00335-z#citeas">link</a>></li></ol>
+<ol start="32"> <li>Wang, H., <b>Yang, Y.</b>, Liu, J., Qian, L. (2021) Direct cell reprogramming: approaches, mechanisms and progress. <i><b>Nature Reviews Molecular Cell Biology</b></i>, 22: 410–424. PMID: 33619373. <<a href="https://www.nature.com/articles/s41580-021-00335-z#citeas">link</a>></li></ol>
 
 <ol start="31"> <li>Bruinsma, R., Fajgenbaum, K., <b>Yang, Y.</b>, del Mar Melendez-Gonzalez, M., Mohlke, K., Li, Y., Sayed, C. (2021) Assessment of Familial Risk in Patients with Hidradenitis Suppurativa. <i><b>British Journal of Dermatology</b></i>, 184: 753-754. PMID: 33152101. <<a href ="https://onlinelibrary.wiley.com/doi/10.1111/bjd.19664">link</a>></li></ol>
 
