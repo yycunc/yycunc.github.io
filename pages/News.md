@@ -6,6 +6,7 @@ title: News
 ## 2021
 <b>June 15, 2021</b><br/> 
 The research article "Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data" I co-authored is accepted for publication in principle in ***Cell Reports***.<br/>
+<br/>
 
 <b>May 18, 2021</b><br/> 
 The research article "SnapHiC: a computational pipeline to identify chromatin loops from single cell Hi-C data" I co-authored is accepted for publication in principle in ***Nature Methods***.<br/>
