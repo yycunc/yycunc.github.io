@@ -26,9 +26,9 @@ title: Yuchen Yang's publications
 
 <ol start="43" style="font-weight: bold;"> <li><span style="font-weight: normal;">Yang, Y.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Huang, L., Broome, J., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L., Li, Y. (2021) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>Briefings in Bioinformatics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></span></li></ol>
 
-<ol start="42" style="font-weight: bold;"> <li><span style="font-weight: normal;">Li, G., Luan, C., Dong, Y., …, Li, Y.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2021) ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells. <i><b>International Journal of Molecular Sciences</b></i>. Accepted.</li></ol>
+<ol start="42" style="font-weight: bold;"> <li><span style="font-weight: normal;">Li, G., Luan, C., Dong, Y., …, Li, Y.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2021) ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells. <i><b>International Journal of Molecular Sciences</b></i>. Accepted.</span></li></ol>
 
-<ol start="41" style="font-weight: bold;"> <li><span style="font-weight: normal;">Ma, H.<sup>&dagger;</sup>, Liu, Z.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Liu, J. (2021) Coordinated transcriptome and cell state dynamics of non-myocytes in heart regeneration. <i><b>EMBO reports</b></i>. Accepted.</li></ol>
+<ol start="41" style="font-weight: bold;"> <li><span style="font-weight: normal;">Ma, H.<sup>&dagger;</sup>, Liu, Z.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Liu, J. (2021) Coordinated transcriptome and cell state dynamics of non-myocytes in heart regeneration. <i><b>EMBO reports</b></i>. Accepted.</span></li></ol>
 
 <ol start="40"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>Cell Reports</b></i>, 36: 109442. PMID: 34320340. <<a href="https://www.sciencedirect.com/science/article/pii/S2211124721008597">link</a>></li></ol>
 
