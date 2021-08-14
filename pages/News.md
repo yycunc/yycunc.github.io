@@ -4,6 +4,14 @@ title: News
 ---
 
 ## 2021
+<b>August 17, 2021</b><br/> 
+The research article "ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells" I co-corresponding-authored is accepted for publication in ***International Journal of Molecular Sciences***.<br/>
+<br/>
+
+<b>August 13, 2021</b><br/> 
+The research article "Coordinated transcriptome and cell state dynamics of non-myocytes in heart regeneration" I co-first-authored is accepted for publication in ***EMBO reports***.<br/>
+<br/>
+
 <b>June 17, 2021</b><br/> 
 The research article "SnapHiC: a computational pipeline to identify chromatin loops from single cell Hi-C data" I co-authored is accepted for publication in ***Nature Methods***.<br/>
 <br/>
