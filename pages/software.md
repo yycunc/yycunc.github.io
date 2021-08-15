@@ -13,6 +13,8 @@ title: Yuchen Yang' Software
 
 **iSMNN**: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement ([GitHub](https://github.com/yycunc/iSMNN), [vignettes](https://github.com/yycunc/iSMNN/blob/main/README.md))
 
+**ExpressHeart**: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells (http://shiny.bios.unc.edu/expressheart/)
+
 ### Hi-C
 
 **MUNIn** (Multiple tissue UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple tissues/samples.([GitHub](https://github.com/yycunc/MUNIn), [vignettes](https://github.com/yycunc/MUNIn/blob/master/README.md))
