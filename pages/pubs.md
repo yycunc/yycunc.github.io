@@ -32,7 +32,7 @@ title: Yuchen Yang's publications
 
 <ol start="40"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>Cell Reports</b></i>, 36: 109442. PMID: 34320340. <<a href="https://www.sciencedirect.com/science/article/pii/S2211124721008597">link</a>></li></ol>
 
-<ol start="39"> <li> Yu, M., Abnousi, A., Zhang, Y., ..., <b>Yang, Y.</b>, ..., Ren, B., Hu, M. (2021) SnapHiC: a computational pipeline to identify chromatin loops from single cell Hi-C data. <i><b>Nature Methods</b></i>, Accepted.</li></ol>
+<ol start="39"> <li>Yu, M., Abnousi, A., Zhang, Y., ..., <b>Yang, Y.</b>, ..., Ren, B., Hu, M. (2021) SnapHiC: a computational pipeline to identify chromatin loops from single cell Hi-C data. <i><b>Nature Methods</b></i>, Accepted.</li></ol>
 
 <ol start="38" style="font-weight: bold;"> <li><span style="font-weight: normal;">Liu, W.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Abnousi, A., Zhang, Q., Kubo, N., Martin Beem, J., Li, Y., Hu, M. (2021) MUNIn: a statistical framework for identifying long-range chromatin interactions from multiple samples. <i><b>Human Genetics and Genomics Advances</b></i>, 2: 100036. <<a href="https://www.sciencedirect.com/science/article/pii/S2666247721000178?via%3Dihub">link</a>></span></li></ol>
 
