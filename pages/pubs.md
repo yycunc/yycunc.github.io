@@ -28,7 +28,7 @@ title: Yuchen Yang's publications
 
 <ol start="42" style="font-weight: bold;"> <li><span style="font-weight: normal;">Ma, H.<sup>&dagger;</sup>, Liu, Z.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Liu, J. (2021) Coordinated transcriptome and cell state dynamics of non-myocytes in heart regeneration. <i><b>EMBO reports</b></i>. Accepted.</span></li></ol>
 
-<ol start="41" style="font-weight: bold;"> <li><span style="font-weight: normal;">Li, G., Luan, C., Dong, Y., …, Li, Y.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2021) ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells. <i><b>International Journal of Molecular Sciences</b></i>, 22: 8943. <<a href="https://www.mdpi.com/1422-0067/22/16/8943>link</a>></span></li></ol>
+<ol start="41" style="font-weight: bold;"> <li><span style="font-weight: normal;">Li, G., Luan, C., Dong, Y., …, Li, Y.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2021) ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells. <i><b>International Journal of Molecular Sciences</b></i>, 22: 8943. <<a href="https://www.mdpi.com/1422-0067/22/16/8943">link</a>></span></li></ol>
 
 <ol start="40"> <li> Yang, Y., Sun, H., Zhang, Y., …, <b>Yang, Y.</b>, Wu, D., Yu, D. (2021) Dimensionality reduction by UMAP reinforces sample heterogeneity analysis in bulk transcriptomic data. <i><b>Cell Reports</b></i>, 36: 109442. PMID: 34320340. <<a href="https://www.sciencedirect.com/science/article/pii/S2211124721008597">link</a>></li></ol>
 
