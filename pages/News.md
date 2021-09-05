@@ -4,6 +4,10 @@ title: News
 ---
 
 ## 2021
+<b>September 4, 2021</b><br/> 
+The research article "Delineating Chromatin Accessibility Re-patterning at Single Cell Level during Early Stage of Direct Cardiac Reprogramming" I co-authored is accepted for publication in ***Journal of Molecular and Cellular Cardiology***.<br/>
+<br/>
+
 <b>August 17, 2021</b><br/> 
 The research article "ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells" I co-corresponding-authored is accepted for publication in ***International Journal of Molecular Sciences***.<br/>
 <br/>
