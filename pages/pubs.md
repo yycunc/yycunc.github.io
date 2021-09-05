@@ -23,6 +23,7 @@ title: Yuchen Yang's publications
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2021
+<ol start="44" style="font-weight: bold;"> <li><span style="font-weight: normal;">Wang, H.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Qian, Y., Liu, J., Qian, L. (2021) Delineating Chromatin Accessibility Re-patterning at Single Cell Level during Early Stage of Direct Cardiac Reprogramming. <i><b>Journal of Molecular and Cellular Cardiology</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></span></li></ol>
 
 <ol start="43" style="font-weight: bold;"> <li><span style="font-weight: normal;">Yang, Y.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Huang, L., Broome, J., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L., Li, Y. (2021) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>Briefings in Bioinformatics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></span></li></ol>
 
