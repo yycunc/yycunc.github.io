@@ -14,15 +14,15 @@ title: Yuchen Yang's publications
 <u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding or co-corresponding authors.
 
 ### Preprint
-<ol start="4"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
-
-<ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
+<ol start="3"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
 
 <ol start="2"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2021+) Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2021
+<ol start="45"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>Current Issues in Molecular Biology</b></i>, Accpted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
+
 <ol start="44" style="font-weight: bold;"> <li><span style="font-weight: normal;">Wang, H.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Qian, Y., Liu, J., Qian, L. (2021) Delineating Chromatin Accessibility Re-patterning at Single Cell Level during Early Stage of Direct Cardiac Reprogramming. <i><b>Journal of Molecular and Cellular Cardiology</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></span></li></ol>
 
 <ol start="43" style="font-weight: bold;"> <li><span style="font-weight: normal;">Yang, Y.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Huang, L., Broome, J., Correa, A., Reiner, A., NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, Raffield, L., Li, Y. (2021) eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data. <i><b>Briefings in Bioinformatics</b></i>, Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405266v1">link</a>></span></li></ol>
