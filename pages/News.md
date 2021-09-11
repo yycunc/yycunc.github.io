@@ -4,8 +4,12 @@ title: News
 ---
 
 ## 2021
+<b>September 11, 2021</b><br/> 
+The research article "HPRep: quantifying reproducibility in HiChIP and PLAC-seq datasets" I co-authored is accepted for publication in ***Current Issues in Molecular Biology***.<br/>
+<br/>
+
 <b>September 4, 2021</b><br/> 
-The research article "Delineating Chromatin Accessibility Re-patterning at Single Cell Level during Early Stage of Direct Cardiac Reprogramming" I co-authored is accepted for publication in ***Journal of Molecular and Cellular Cardiology***.<br/>
+The research article "Delineating Chromatin Accessibility Re-patterning at Single Cell Level during Early Stage of Direct Cardiac Reprogramming" I co-first-authored is accepted for publication in ***Journal of Molecular and Cellular Cardiology***.<br/>
 <br/>
 
 <b>August 17, 2021</b><br/> 
